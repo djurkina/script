@@ -1,0 +1,16 @@
+{
+  "Concept_Art":      ["In", "Progress", "Out"],
+  "Lookdev":          ["In", "Progress", "Out"],
+  "Animation": {
+    "Face": {
+      "Record":  ["In", "Progress", "Out"],
+      "Cleanup": ["In", "Progress", "Out"]
+    },
+    "Body": {
+      "Record":  ["In", "Progress", "Out"],
+      "Cleanup": ["In", "Progress", "Out"]
+    }
+  },
+  "Cloth_Simulate": ["In", "Progress", "Out"],
+  "Fx":             ["In", "Progress", "Out"],
+  "Compositing":    ["In", "Progress", "Out"]
